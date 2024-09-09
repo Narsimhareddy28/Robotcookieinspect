@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Flag: @nd_R0bot$}
